@@ -1,9 +1,12 @@
-package com.scala.practice
-
 /**
   * Created by skola on 7/20/2017.
   */
-object BMI {
+
+
+package com.scala.practice
+
+
+object BMI{
 
 
   def main(args: Array[String]): Unit = {
