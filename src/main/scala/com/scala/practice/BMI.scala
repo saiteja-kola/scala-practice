@@ -11,7 +11,7 @@ object BMI{
 
   def main(args: Array[String]): Unit = {
 
-    println("Please Enter Your Weight: ")
+    println("Please Enter Your Weight In Pounds: ")
 
     val lbs = scala.io.StdIn.readDouble()
     println("Please Enter Your Height In Inches: ")
