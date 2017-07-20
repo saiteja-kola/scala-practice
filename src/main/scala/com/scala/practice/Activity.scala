@@ -7,7 +7,7 @@ object Activity {
 
   def main(args: Array[String]): Unit = {
 
-    println("Please enter number of calories to burn between (0-1000) : ")
+    println("Please enter number of calories to burn between (0-700) : ")
 
     val calories = scala.io.StdIn.readDouble()
 
