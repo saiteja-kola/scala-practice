@@ -5,7 +5,7 @@ package com.scala.calculator
   */
 object Add {
   def main(args: Array[String]): Unit = {
-    
+
   }
 
 }

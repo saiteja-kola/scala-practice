@@ -1,3 +1,4 @@
+/*
 /**
   * Created by skola on 7/20/2017.
   */
@@ -15,3 +16,4 @@ object BusinessHours {
 
 
 }
+*/
